@@ -23,7 +23,7 @@ svg #logo {
     animation-name: animateLogo;
     animation-iteration-count: infinite;
     animation-direction: alternate; 
-    mix-blend-mode: overlay;
+    /*mix-blend-mode: overlay;*/
 }
 
 @keyframes animateLogo {
