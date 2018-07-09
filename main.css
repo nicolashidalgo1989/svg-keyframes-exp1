@@ -18,9 +18,7 @@ svg{
 }
 svg #logo {
     opacity:1;  
-    transform: translate(118px, 1px);
-}
-svg:hover #logo {
+    transform: translate(118px, 1px); 
     animation-duration: 1.2s;
     animation-name: animateLogo;
     animation-iteration-count: infinite;
